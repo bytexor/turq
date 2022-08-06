@@ -1,6 +1,6 @@
 # turq
 ## what's turq
-   A fast runtime backend for go,c,rust,lua code. It works like a jvm,but it's always jited,so running code in the vm is as fast as native code.
+   A fast runtime backend for go,c,rust,lua code. It works like a jvm,but it's always jited,so running codes in the vm is as fast as native codes.
 
 ## how it works
    Yes, codes written in go,c,rust,lua are translated to well-defined bytecodes.A dedicated interpreter is use to interpret these bytecodes execution. 
